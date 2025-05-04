@@ -1,8 +1,8 @@
- 
+AI Resume Analyzer
 ---
 
-```markdown
-# 📄 AI Resume Analyzer
+ 
+
 
 An AI-powered resume analyzer built with **Python**, **Streamlit**, and **spaCy**. This tool allows users to upload their resumes (PDF format) and get instant feedback on grammar, structure, keyword density, and a smart resume score out of 100.
 
@@ -72,7 +72,7 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshot
+## Screenshot
 
 ![screenshot](https://via.placeholder.com/800x400.png?text=Resume+Analyzer+UI+Preview)
 
@@ -94,7 +94,7 @@ streamlit run app.py
 
 ---
 
-## 📝 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
@@ -102,5 +102,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Let me know if you'd like me to generate the `requirements.txt` file as well or help push this project to GitHub.
 ```
