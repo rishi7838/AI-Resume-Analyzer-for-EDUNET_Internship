@@ -74,7 +74,7 @@ streamlit run app.py
 
 ## Screenshot
 
-![screenshot](https://via.placeholder.com/800x400.png?text=Resume+Analyzer+UI+Preview)
+![screenshot](https://i.postimg.cc/xCnz0nH3/Screenshot-2025-05-04-155402.png)
 
 ---
 
@@ -96,10 +96,5 @@ streamlit run app.py
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
-```
-
----
-
-```
+This project is licensed under the MIT License.
+ 
